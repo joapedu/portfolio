@@ -1,7 +1,10 @@
 # Portfolio
 
+![Project Image](public/images/thumbnail.webp)
+
 The personal Portfolio website showcases projects, skills, and blogs to share experiences. The website is built using Next.js as a Static Site Generator, GSAP for animations, and Lenis Scroll for smooth scrolling. Contentful SDK is integrated to use it as a CMS for managing Projects.
 
+[![Website Status](https://img.shields.io/website?url=https://portfolio-joapedu.vercel.app&up_message=Live&down_message=Down&label=Status)](https://portfolio-joapedu.vercel.app/)
 
 ## Key Features
 
@@ -59,5 +62,5 @@ This project is licensed under the [MIT] license - see the [LICENSE](https://git
 
 ## Contribution
 
-For any and all code contributions see [CONTRIBUTING.md](https://github.com/joapedu/portfolio/blob/main/CONTRIBUTING.md).
+For any and all code contributions see [CONTRIBUTING](https://github.com/joapedu/portfolio/blob/main/CONTRIBUTING).
 
