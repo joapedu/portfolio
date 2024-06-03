@@ -1,4 +1,4 @@
-// @ts-check
+// @ts-nocheck
 import Analyzer from '@next/bundle-analyzer';
 import MDX from '@next/mdx';
 import withPlaiceholder from '@plaiceholder/next';

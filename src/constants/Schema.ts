@@ -17,7 +17,7 @@ const HomePage: Graph = {
       image: `${APP_URL}${images}`,
       alumniOf: {
         '@type': 'CollegeOrUniversity',
-        name: 'IMD Digital Metropolis Institute '
+        name: 'IMD Digital Metropolis Institute'
       },
       sameAs: [
         'https://www.linkedin.com/in/joão-eduardo-braga/',
